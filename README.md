@@ -4,6 +4,12 @@ Recurso educacional para o ensino de circuitos eulerianos. Podendo ser aplicado 
 Sobre o código:
 O código vai gerar um tabuleiro personalizado, pois as casas de desafios, representadas pelos pontos de interrogração são distribuidas de maneira aleatórias.
 
+Arquivo Card Game:
+As duas primeiras páginas do arquivo representam o baralho desafios
+A terceira página do arquivo representa o baralho de missões
+O arquivo também contém as cartas como um tamanho maior. 
+Se quiser somente do tamanho do jogo UNO imprime somente as 3 primeiras páginas.
+
 Sobre o jogo:
 Você é um turista explorando a cidade do Rio de Janeiro, cheia de paisagens incríveis e pontos turísticos imperdíveis. Para aproveitar ao máximo sua viagem, você decidiu seguir uma regra única: não pode passar pela mesma rota entre dois pontos turísticos mais de uma vez. Seu objetivo é completar o roteiro de viagem e voltar ao ponto de partida, formando um circuito completo.
 
